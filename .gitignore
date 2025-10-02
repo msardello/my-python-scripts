@@ -1,0 +1,12 @@
+# Python cache files 
+__pycache__/
+*.pyc
+*.pyd
+
+# PyCharm / IDE Files 
+.idea/
+.vscode/
+
+# Logs and temp files 
+*.log
+temp/
